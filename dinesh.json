@@ -1,0 +1,9 @@
+{
+  "alarm-name": "temperature",
+  "alarm-severity" : 1,
+  "message" : "Description Description Description Description Description dshakdkjsdakd djsakdjkdjsd klajdkla djaklsdjksalsjdkal jkdljsakl djsakljdksaljd djsakddksajkdjdksajkaljdklajd",
+  "remedy": true,
+  "acknowledement-status" : 1,
+  "last-update-time": "30 mins ago",
+  "username": "Dinesh"
+}
